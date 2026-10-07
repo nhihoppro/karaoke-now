@@ -1,4 +1,4 @@
-# Karaoke Now - Sing Together Online
+# Karaoke Now - Sing Together Online.
 
 [![Vercel](https://github.com/vietbrosinaus/karaoke-now/actions/workflows/health-vercel.yml/badge.svg)](https://github.com/vietbrosinaus/karaoke-now/actions/workflows/health-vercel.yml)
 [![PartyKit](https://github.com/vietbrosinaus/karaoke-now/actions/workflows/health-partykit.yml/badge.svg)](https://github.com/vietbrosinaus/karaoke-now/actions/workflows/health-partykit.yml)
